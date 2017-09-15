@@ -1,5 +1,5 @@
 ﻿.ax_default {
-  font-family:'Arial Normal', 'Arial';
+  font-family:'ArialMT', 'Arial';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -24,7 +24,7 @@
 .ellipse {
 }
 .shape {
-  font-family:'Arial Normal', 'Arial';
+  font-family:'ArialMT', 'Arial';
   font-weight:normal;
   font-style:normal;
   font-size:14px;
@@ -39,41 +39,41 @@
 .button {
 }
 .heading_1 {
-  font-family:'Arial Normal', 'Arial';
+  font-family:'ArialMT', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:32px;
   text-align:left;
 }
 .heading_2 {
-  font-family:'Arial Normal', 'Arial';
+  font-family:'ArialMT', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:24px;
   text-align:left;
 }
 .heading_3 {
-  font-family:'Arial Normal', 'Arial';
+  font-family:'ArialMT', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:18px;
   text-align:left;
 }
 .heading_4 {
-  font-family:'Arial Normal', 'Arial';
+  font-family:'ArialMT', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:14px;
   text-align:left;
 }
 .heading_5 {
-  font-family:'Arial Normal', 'Arial';
+  font-family:'ArialMT', 'Arial';
   font-weight:bold;
   font-style:normal;
   text-align:left;
 }
 .heading_6 {
-  font-family:'Arial Normal', 'Arial';
+  font-family:'ArialMT', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:10px;
@@ -103,6 +103,9 @@
   color:#000000;
   text-align:left;
 }
+.checkbox {
+  text-align:left;
+}
 .radio_button {
   text-align:left;
 }
@@ -113,21 +116,21 @@
   color:#FFFFFF;
 }
 .headline {
-  font-family:'Roboto Regular', 'Roboto';
+  font-family:'Roboto';
   font-weight:400;
   font-style:normal;
   font-size:24px;
   color:rgba(0, 0, 0, 0.866666666666667);
 }
 .title {
-  font-family:'Roboto Regular', 'Roboto';
+  font-family:'Roboto';
   font-weight:500;
   font-style:normal;
   font-size:20px;
   color:rgba(0, 0, 0, 0.866666666666667);
 }
 .primary_text_dark {
-  font-family:'Roboto Regular', 'Roboto';
+  font-family:'Roboto';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -135,70 +138,70 @@
   text-align:left;
 }
 .secondary_text_dark {
-  font-family:'Roboto Regular', 'Roboto';
+  font-family:'Roboto';
   font-weight:400;
   font-style:normal;
   font-size:14px;
   color:rgba(0, 0, 0, 0.537254901960784);
 }
 .disabled_text_dark {
-  font-family:'Roboto Regular', 'Roboto';
+  font-family:'Roboto';
   font-weight:400;
   font-style:normal;
   font-size:14px;
   color:rgba(0, 0, 0, 0.258823529411765);
 }
 .primary_text_light {
-  font-family:'Roboto Regular', 'Roboto';
+  font-family:'Roboto';
   font-weight:400;
   font-style:normal;
   font-size:14px;
   color:#FFFFFF;
 }
 .secondary_text_light {
-  font-family:'Roboto Regular', 'Roboto';
+  font-family:'Roboto';
   font-weight:400;
   font-style:normal;
   font-size:14px;
   color:rgba(255, 255, 255, 0.698039215686274);
 }
 .disabled_text_light {
-  font-family:'Roboto Regular', 'Roboto';
+  font-family:'Roboto';
   font-weight:400;
   font-style:normal;
   font-size:14px;
   color:rgba(255, 255, 255, 0.298039215686275);
 }
 .flat_button {
-  font-family:'Roboto Regular', 'Roboto';
+  font-family:'Roboto';
   font-weight:500;
   font-style:normal;
   font-size:14px;
   color:#2196F3;
 }
 .flat_button_pressed {
-  font-family:'Roboto Regular', 'Roboto';
+  font-family:'Roboto';
   font-weight:500;
   font-style:normal;
   font-size:14px;
   color:#2196F3;
 }
 .flat_button_disabled {
-  font-family:'Roboto Regular', 'Roboto';
+  font-family:'Roboto';
   font-weight:500;
   font-style:normal;
   font-size:14px;
   color:rgba(0, 0, 0, 0.258823529411765);
 }
 .raised_button {
-  font-family:'Roboto Regular', 'Roboto';
+  font-family:'Roboto';
   font-weight:500;
   font-style:normal;
   font-size:14px;
   color:#FFFFFF;
 }
 .raised_button_pressed {
-  font-family:'Roboto Regular', 'Roboto';
+  font-family:'Roboto';
   font-weight:500;
   font-style:normal;
   font-size:14px;
@@ -207,7 +210,7 @@
 .status_bar_dark {
 }
 .title_bar_dark {
-  font-family:'Roboto Regular', 'Roboto';
+  font-family:'Roboto';
   font-weight:500;
   font-style:normal;
   font-size:20px;
@@ -217,7 +220,7 @@
 .content_bg_dark {
 }
 .dialog_dark {
-  font-family:'Roboto Regular', 'Roboto';
+  font-family:'Roboto';
   font-weight:500;
   font-style:normal;
   font-size:20px;
@@ -227,7 +230,7 @@
 .status_bar_light {
 }
 .title_bar_light {
-  font-family:'Roboto Regular', 'Roboto';
+  font-family:'Roboto';
   font-weight:500;
   font-style:normal;
   font-size:20px;
@@ -237,7 +240,7 @@
 .content_bg_light {
 }
 .dialog_light {
-  font-family:'Roboto Regular', 'Roboto';
+  font-family:'Roboto';
   font-weight:500;
   font-style:normal;
   font-size:20px;
@@ -257,14 +260,14 @@
 .horizontal_line {
 }
 .divider {
-  font-family:'Roboto Regular', 'Roboto';
+  font-family:'Roboto';
   font-weight:400;
   font-style:normal;
   font-size:14px;
   color:rgba(0, 0, 0, 0.258823529411765);
 }
 .paragraph2 {
-  font-family:'Roboto Regular', 'Roboto';
+  font-family:'Roboto';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -273,21 +276,21 @@
   line-height:19px;
 }
 .shape2 {
-  font-family:'Roboto Regular', 'Roboto';
+  font-family:'Roboto';
   font-weight:400;
   font-style:normal;
   font-size:14px;
   color:#000000;
 }
 .image2 {
-  font-family:'Roboto Regular', 'Roboto';
+  font-family:'Roboto';
   font-weight:400;
   font-style:normal;
   font-size:13px;
   color:#000000;
 }
 .text_field {
-  font-family:'Roboto Regular', 'Roboto';
+  font-family:'Roboto';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -299,14 +302,14 @@
 .vertical_line {
 }
 .image3 {
-  font-family:'Arial Normal', 'Arial';
+  font-family:'ArialMT', 'Arial';
   font-weight:normal;
   font-style:normal;
   font-size:13px;
   color:#000000;
 }
 ._28号字_页面备注信息及列表的表头说明文字__） {
-  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -322,7 +325,7 @@
   text-align:left;
 }
 ._形状 {
-  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-family:'PingFangSC-Medium', 'PingFang SC Medium', 'PingFang SC';
   font-weight:500;
   font-style:normal;
   font-size:50px;
@@ -334,14 +337,14 @@
   color:#000000;
 }
 ._一级标题 {
-  font-family:'Arial Normal', 'Arial';
+  font-family:'ArialMT', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:32px;
   text-align:left;
 }
 .heading_21 {
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:24px;

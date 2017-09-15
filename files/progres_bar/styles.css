@@ -13,7 +13,6 @@
   z-index:0;
 }
 #u78_img {
-  border-width:0px;
   position:absolute;
   left:-5px;
   top:-5px;
@@ -21,7 +20,6 @@
   height:208px;
 }
 #u78 {
-  border-width:0px;
   position:absolute;
   left:162px;
   top:115px;
@@ -33,7 +31,6 @@
   transform:rotate(225deg);
 }
 #u79 {
-  border-width:0px;
   position:absolute;
   left:2px;
   top:90px;
@@ -42,7 +39,6 @@
   word-wrap:break-word;
 }
 #u80_img {
-  border-width:0px;
   position:absolute;
   left:-5px;
   top:-5px;
@@ -50,7 +46,6 @@
   height:93px;
 }
 #u80 {
-  border-width:0px;
   position:absolute;
   left:154px;
   top:196px;
@@ -62,7 +57,6 @@
   transform:rotate(315deg);
 }
 #u81 {
-  border-width:0px;
   position:absolute;
   left:2px;
   top:33px;
@@ -71,7 +65,6 @@
   word-wrap:break-word;
 }
 #u82_img {
-  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
@@ -79,7 +72,6 @@
   height:109px;
 }
 #u82 {
-  border-width:0px;
   position:absolute;
   left:207px;
   top:159px;
@@ -87,7 +79,6 @@
   height:108px;
 }
 #u83 {
-  border-width:0px;
   position:absolute;
   left:2px;
   top:46px;
@@ -96,7 +87,6 @@
   word-wrap:break-word;
 }
 #u84_img {
-  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
@@ -104,7 +94,6 @@
   height:17px;
 }
 #u84 {
-  border-width:0px;
   position:absolute;
   left:230px;
   top:282px;
@@ -113,15 +102,13 @@
   color:#333399;
 }
 #u85 {
-  border-width:0px;
   position:absolute;
   left:0px;
-  top:0px;
+  top:-2px;
   width:63px;
   white-space:nowrap;
 }
 #u86_img {
-  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
@@ -129,7 +116,6 @@
   height:17px;
 }
 #u86 {
-  border-width:0px;
   position:absolute;
   left:247px;
   top:190px;
@@ -137,15 +123,13 @@
   height:16px;
 }
 #u87 {
-  border-width:0px;
   position:absolute;
   left:0px;
-  top:0px;
+  top:-2px;
   width:29px;
   white-space:nowrap;
 }
 #u88_img {
-  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
@@ -153,7 +137,6 @@
   height:23px;
 }
 #u88 {
-  border-width:0px;
   position:absolute;
   left:226px;
   top:205px;
@@ -163,10 +146,9 @@
   color:#FF6699;
 }
 #u89 {
-  border-width:0px;
   position:absolute;
   left:0px;
-  top:0px;
+  top:-2px;
   width:72px;
   white-space:nowrap;
 }
